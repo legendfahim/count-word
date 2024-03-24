@@ -1,5 +1,5 @@
 {
-  "name": "count-word",
+  "name": "cwords",
   "version": "1.0.0",
   "description": "A simple function to count words from a sentence.",
   "main": "src/index.js",
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/legendfahim/count-word.git"
   },
   "keywords": [
-    "word",
+    "cwords",
     "word-counter",
     "counter-words",
     "words-count",
