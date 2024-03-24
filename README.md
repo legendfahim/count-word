@@ -1,5 +1,5 @@
 
-# word-count
+# cwords
 
 A simple npm package to count the number of words in a sentence.
 
